@@ -1,8 +1,6 @@
-# 👋 Hi, I’m @Brunoseleghin
+# 👋 Hi, I’m Bruno Daniel Seleghin Gilla
 
-<p>I'm passionate about technology and programming.
-<br />
-I always like to feel that I'm evolving, for this reason I always seek to be learning something. 👨‍💻</p>
+<p>I always like to feel that I'm evolving, for this reason I always seek to be learning something. 👨‍💻</p>
 
 # Technologies and Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,html,css,styledcomponents,js,ts,react,vite" />
